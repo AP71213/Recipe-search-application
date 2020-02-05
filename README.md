@@ -1,4 +1,7 @@
 ![Alt text](https://user-images.githubusercontent.com/24578710/73848357-fb0f7f80-484d-11ea-9fee-7e9ff0c73bde.png)
+![Alt text](https://user-images.githubusercontent.com/24578710/73848375-02cf2400-484e-11ea-8692-9be3172cb5d3.png)
+![Alt text](https://user-images.githubusercontent.com/24578710/73848378-05ca1480-484e-11ea-9e65-0c57de4fe83b.png)
+![Alt text](https://user-images.githubusercontent.com/24578710/73848384-0a8ec880-484e-11ea-99a4-1fab491c7c9e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
